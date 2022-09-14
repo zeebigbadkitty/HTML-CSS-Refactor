@@ -1,2 +1,2 @@
 # mod-one-challenge
- Challenge exercise for module 1
+Refactoring code for semantic elements and assesbility to completeg the module one challenge activity. 
