@@ -72,7 +72,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](.\assets\images\Recording 2022-10-27 at 15.48.19.gif)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
